@@ -1,19 +1,47 @@
-<!DOCTYPE html>
-<html lang="en" translate="no">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="The official website of Erika Azzahra">
-  <title>Erika Azzahra</title>
-  <link rel="icon" type="image/x-icon" href="./favicon.ico">
-  <link rel="stylesheet" href="./style.css">
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Mono:wght@100..900&family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
-</head>
-<body>
-  <h1>Erika Azzahra</h1>
-  <code>(!) Site under development</code>
-  <script type="text/javascript" src="./index.js"></script>
-</body>
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Erika Azzahra</title>
+
+    <link
+      href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;600;800;900&display=swap"
+      rel="stylesheet"
+    />
+
+    <link rel="icon" href="./favicon.ico" />
+    <link rel="stylesheet" href="./style.css" />
+  </head>
+
+  <body>
+
+    <h1>Erika Azzahra</h1>
+    <code>(Site under development)</code>
+
+    <main id="app" class="app" aria-hidden="true">
+      <div class="main-bg" aria-hidden="true"></div>
+
+      <header class="topbar">
+        <div class="left">
+          <img class="avatar" src="./favicon.ico" alt="Profile" />
+          <div id="dynamicText" class="dynamic-text">What's up?</div>
+        </div>
+
+        <nav class="nav">
+          <a class="shiny-link" href="#home">Home</a>
+          <a class="shiny-link" href="#projects">Projects</a>
+          <a class="shiny-link" href="#about">About</a>
+          <a class="shiny-link" href="#contact">Contact</a>
+        </nav>
+      </header>
+
+      <section id="home" class="spacer"></section>
+      <section id="projects" class="spacer"></section>
+      <section id="about" class="spacer"></section>
+      <section id="contact" class="spacer"></section>
+    </main>
+
+    <script src="./index.js"></script>
+  </body>
 </html>
