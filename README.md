@@ -1,16 +1,18 @@
-## Hi there 👋
+<p align="center">
+  <img src="./profile.svg" width="900">
+</p>
 
-<!--
-**erikaazzahra29/erikaazzahra29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://erika.my.id/">
+    <img src="./website.svg" width="140">
+  </a>
+  <a href="https://www.linkedin.com/in/erika-azzahra-ba238a3ab/">
+    <img src="./linkedin.svg" width="140">
+  </a>
+  <a href="https://www.instagram.com/erikaazzahra29/">
+    <img src="./instagram.svg" width="140">
+  </a>
+  <a href="azzahrae47@gmail.com">
+    <img src="./email.svg" width="140">
+  </a>
+</p>
